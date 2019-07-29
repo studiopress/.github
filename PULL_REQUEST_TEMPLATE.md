@@ -8,6 +8,7 @@ Provide a short but detailed summary of the changes included in this PR
 
 **Have the changes in this PR been added to the documentation for this project?**
 Yes / No / Does not apply
+(if No, please create and link to the issue that identifies the need for documentation)
 
 **How to test:**
 Provide as detailed a description for how to test this PR.
