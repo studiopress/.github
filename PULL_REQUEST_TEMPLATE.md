@@ -1,20 +1,3 @@
-<!--
-Thank you so much for submitting your contribution!
-
-A couple things:
-
-First, anything wrapped in HTML comment tags will be ignored when you submit. So don't feel like you need to remove them before submitting, but you can if you want to. And make sure anything you **want** to be seen is **not** between HTML comment tags.
-
-Second, any PR that you submit will be automatically:
-
-- linted for syntax errors
-- scanned for code standards violations
-- checked from failing tests with the bundled test suite
-
-If any of these fail, expect a reviewer to ask you to correct the errors before this PR can be approved.
-
-Thanks!
--->
 **Summary of change:**
 <!-- Provide a short but detailed summary of the changes included in this PR -->
 
