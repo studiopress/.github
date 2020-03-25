@@ -1,4 +1,3 @@
-### Summary
 <!-- A short but detailed summary of the changes. -->
 
 <!-- Fixes #xxx. -->
