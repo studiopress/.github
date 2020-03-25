@@ -1,22 +1,21 @@
-**Summary of change:**
-<!-- Provide a short but detailed summary of the changes included in this PR -->
+### Summary
+<!-- A short but detailed summary of the changes. -->
 
-**Have the changes in this PR been added to the documentation for this project?**
-<!--
-Yes / No / Does not apply
-(if No, please create and link to the issue that identifies the need for documentation)
--->
+<!-- Fixes #xxx. -->
+<!-- See #xxx. -->
 
-**How to test:**
-<!-- Provide as detailed a description for how to test this PR. -->
+### Documentation
+<!-- No documentation required. -->
+<!-- Documentation required. See #xxx. -->
+<!-- PR includes documentation. -->
 
-<!-- If this PR is in reference to an existing issue, link it here. -->
-**See:** #xxx
+### How to test
+<!-- Detailed steps to test this PR. -->
+1. 
 
-<!-- If this PR fully resolves an existing issue, link it here. -->
-**Fixes:** #xxx
+### Suggested changelog entry
+<!-- A short description for the changelog. -->
+- 
 
-**Suggested Changelog Entry:**
-<!-- Provide a short description of the changes in this PR for inclusion in the changelog. -->
-
-<!-- You can use this space to provide any additional information that may be relevant to this PR -->
+### Notes
+<!-- Additional information for reviewers. -->
