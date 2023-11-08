@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- We'll respond to big bugs, but probably not smaller ones. -->
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
