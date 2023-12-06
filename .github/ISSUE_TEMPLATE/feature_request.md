@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Thanks, but we're not adding new features
 title: ''
 labels: 'Type: Enhancement, Status: Needs PR'
 assignees: ''
